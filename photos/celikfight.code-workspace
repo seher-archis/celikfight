@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../AUDITS/celikfight"
+		},
+		{
+			"path": "../logo"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
